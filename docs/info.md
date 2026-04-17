@@ -13,7 +13,7 @@ This is just a sample chip. 7 segment display template for digits 1-10.
 
 ## How to test
 
-Use input to dipslay a 7 segment display
+Use input to dipslay a 7 segment display.
 
 ## External hardware
 
