@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is just a sample chip. 7 segment display template
 
 ## How to test
 
-Explain how to use your project
+Use input to dipslay a 7 segment display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NA
