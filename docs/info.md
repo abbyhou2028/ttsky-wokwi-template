@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is just a sample chip. 7 segment display template
+This is just a sample chip. 7 segment display template for digits 1-10.
 
 ## How to test
 
